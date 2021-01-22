@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodetreino",
+  "description": "Treinando NodeJS, aprendendo...",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gersoncjlima/nodetreino.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Gerson Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gersoncjlima/nodetreino/issues"
+  },
+  "homepage": "https://github.com/gersoncjlima/nodetreino#readme"
+}
